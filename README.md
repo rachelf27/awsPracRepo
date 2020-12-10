@@ -1,0 +1,1 @@
+This project is created as a practice Lab for AWS Certified DevOps Engineer course.
